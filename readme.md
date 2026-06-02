@@ -5,7 +5,7 @@ An end-to-end **Machine Learning classification project** focused on predicting 
 
 ---
 
-## 🔍 Summary (2 Lines)
+## 🔍 Summary about the project 
 This project analyzes banking customer data and builds machine learning models to predict customer churn. The solution helps identify at-risk customers using behavioral and demographic patterns.
 
 ---
