@@ -106,11 +106,5 @@ Churn Prediction Insights
 ## 📬 Contact
 📧 **shreyash.sk.sv@gmail.com**
 
----
-
-## 📎 Notes for Recruiters
-- Demonstrates **end-to-end ML pipeline** (EDA → preprocessing → modeling → evaluation)
-- Focused on **business impact and decision-making**
-- Relevant for **Data Analyst, ML Intern, Junior Data Scientist roles**
 
 ---
